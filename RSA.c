@@ -22,7 +22,7 @@ int gcd(int a, int b)
 {
     int q, r1, r2, r;
 
-    if (a > b): //
+    if (a > b): //: should not be here 
     {
         r1 = A; //a
         r2 = b; //b
